@@ -1,0 +1,4 @@
+
+    invoke-static {###org###}, ######->getInstance(######)######
+
+    move-result-object ###dst###
